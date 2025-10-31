@@ -1,0 +1,8 @@
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Estructura de datos\Búsqueda comparativa1\Búsqueda comparativa1\bin\Debug\Búsqueda comparativa1.exe.config
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Estructura de datos\Búsqueda comparativa1\Búsqueda comparativa1\bin\Debug\Búsqueda comparativa1.exe
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Estructura de datos\Búsqueda comparativa1\Búsqueda comparativa1\bin\Debug\Búsqueda comparativa1.pdb
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Estructura de datos\Búsqueda comparativa1\Búsqueda comparativa1\obj\Debug\Búsqueda comparativa1.csproj.AssemblyReference.cache
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Estructura de datos\Búsqueda comparativa1\Búsqueda comparativa1\obj\Debug\Búsqueda comparativa1.csproj.CoreCompileInputs.cache
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Estructura de datos\Búsqueda comparativa1\Búsqueda comparativa1\obj\Debug\Búsqueda comparativa1.exe
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Estructura de datos\Búsqueda comparativa1\Búsqueda comparativa1\obj\Debug\Búsqueda comparativa1.pdb
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Estructura de datos\Búsqueda comparativa1\Búsqueda comparativa1\obj\Debug\Búsqueda comparativa1.exe.config
