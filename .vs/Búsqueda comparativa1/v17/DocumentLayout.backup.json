@@ -1,10 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Estructura de datos\\B\u00FAsqueda comparativa1\\",
+  "WorkspaceRootPath": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Estructura de datos\\comparativa1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0310D7D4-4DC8-4744-9E09-700CF57BA5EE}|B\u00FAsqueda comparativa1\\B\u00FAsqueda comparativa1.csproj|c:\\users\\linsy\\onedrive\\documents\\q3-2025\\estructura de datos\\b\u00FAsqueda comparativa1\\b\u00FAsqueda comparativa1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0310D7D4-4DC8-4744-9E09-700CF57BA5EE}|B\u00FAsqueda comparativa1\\B\u00FAsqueda comparativa1.csproj|solutionrelative:b\u00FAsqueda comparativa1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0310D7D4-4DC8-4744-9E09-700CF57BA5EE}|B\u00FAsqueda comparativa1\\B\u00FAsqueda comparativa1.csproj|c:\\users\\linsy\\onedrive\\documents\\q3-2025\\estructura de datos\\aguinaldos_practica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0310D7D4-4DC8-4744-9E09-700CF57BA5EE}|B\u00FAsqueda comparativa1\\B\u00FAsqueda comparativa1.csproj|c:\\users\\linsy\\onedrive\\documents\\q3-2025\\estructura de datos\\aguinaldos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0310D7D4-4DC8-4744-9E09-700CF57BA5EE}|B\u00FAsqueda comparativa1\\B\u00FAsqueda comparativa1.csproj|c:\\users\\linsy\\onedrive\\documents\\q3-2025\\estructura de datos\\comparativa1\\b\u00FAsqueda comparativa1\\comparativa\\comprar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0310D7D4-4DC8-4744-9E09-700CF57BA5EE}|B\u00FAsqueda comparativa1\\B\u00FAsqueda comparativa1.csproj|solutionrelative:b\u00FAsqueda comparativa1\\comparativa\\comprar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +28,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "comprar.cs",
+              "DocumentMoniker": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Estructura de datos\\comparativa1\\B\u00FAsqueda comparativa1\\comparativa\\comprar.cs",
+              "RelativeDocumentMoniker": "B\u00FAsqueda comparativa1\\comparativa\\comprar.cs",
+              "ToolTip": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Estructura de datos\\comparativa1\\B\u00FAsqueda comparativa1\\comparativa\\comprar.cs",
+              "RelativeToolTip": "B\u00FAsqueda comparativa1\\comparativa\\comprar.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAgwI8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:55:27.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aguinaldos.cs",
+              "DocumentMoniker": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Estructura de datos\\aguinaldos.cs",
+              "RelativeDocumentMoniker": "..\\aguinaldos.cs",
+              "ToolTip": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Estructura de datos\\aguinaldos.cs",
+              "RelativeToolTip": "..\\aguinaldos.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA5wCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:03:12.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Estructura de datos\\B\u00FAsqueda comparativa1\\B\u00FAsqueda comparativa1\\Program.cs",
-              "RelativeDocumentMoniker": "B\u00FAsqueda comparativa1\\Program.cs",
-              "ToolTip": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Estructura de datos\\B\u00FAsqueda comparativa1\\B\u00FAsqueda comparativa1\\Program.cs*",
-              "RelativeToolTip": "B\u00FAsqueda comparativa1\\Program.cs*",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAswJsAAAAsAAAAAAAAAA==",
+              "Title": "aguinaldos_practica.cs",
+              "DocumentMoniker": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Estructura de datos\\aguinaldos_practica.cs",
+              "RelativeDocumentMoniker": "..\\aguinaldos_practica.cs",
+              "ToolTip": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Estructura de datos\\aguinaldos_practica.cs",
+              "RelativeToolTip": "..\\aguinaldos_practica.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T21:16:42.835Z",
               "EditorCaption": ""
